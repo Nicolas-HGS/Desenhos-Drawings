@@ -16,7 +16,7 @@ Original file is located at
 
 # Autor / Author: Nicolas Henrique (nh947760@gmail.com)
 
-"""Fonte das imagem / Source of the image: [Imagem](https://tinyurl.com/fimed-fi-fp) de ddraw no [Freepik](www.freepik.com)"""
+"""Fonte das imagem / Source of the image: Imagem (https://tinyurl.com/fimed-fi-fp) de ddraw no Freepik (www.freepik.com)"""
 
 import cv2
 import matplotlib.pyplot as plt
